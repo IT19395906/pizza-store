@@ -1,5 +1,7 @@
 # pizza-store
 
+responsive web
+
 React.js web
 
 _dependencies_
