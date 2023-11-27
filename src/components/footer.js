@@ -14,7 +14,7 @@ const Footer = () => {
                 <FacebookIcon />
                 <LinkdeInIcon />
             </div>
-            <p> &copy; 2023 aishpizza.com</p>
+            <p> &copy; 2023 aishpizza.com All rights reserved</p>
         </div>
     );
 }

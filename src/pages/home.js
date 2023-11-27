@@ -8,7 +8,7 @@ export default function Home() {
         <div className="home" style={{backgroundImage: `url(${Cover})`}}>
             <div className="headerContainer">
                 <h1>Aish Pizza</h1>
-                <p>chillie pizza</p>
+                <p>All pizzas at one place</p>
                 <Link to="/menu">
                     <button>Order Now</button>
                 </Link>
